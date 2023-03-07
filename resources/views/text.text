@@ -1,0 +1,40 @@
+<div class="card mb-4">
+                        <div class="card-body">
+                            <div class="row">
+                                <div class="col-sm-3">
+                                    <p style="display: inline-block;" class="text-muted mb-0">مالك الدسوقي</p>
+                                    <p style="display: inline-block;font-weight:900; margin-left:"class="mb-0">اسم المستخدم</p>
+                                </div>
+                            </div>
+                            <hr>
+                            <div class="row">
+                                <div class="col-sm-3 d-flex justify-content-evenly w-100">
+                                    <p style="display: inline-block;" class="text-muted mb-0">malek@yahoo.com </p>
+                                    <p style="display: inline-block;font-weight:900"class="mb-0"> البريد الإلكتروني</p>
+                                </div>
+                            </div>
+                            <hr>
+                            <div class="row">
+                                <div class="col-sm-3 d-flex justify-content-evenly w-100">
+                                    <p style="display: inline-block;" class="text-muted mb-0">54556754544 </p>
+                                    <p style="display: inline-block;font-weight:900"class="mb-0"> الهاتف</p>
+                                </div>
+                            </div>
+                            <hr>
+                            <div class="row">
+                                <div class="col-sm-3 d-flex justify-content-evenly w-100">
+                                    <p style="display: inline-block;" class="text-muted mb-0">123469876 </p>
+                                    <p style="display: inline-block;font-weight:900"class="mb-0">الهاتف 2</p>
+                                </div>
+                            </div>
+                            <hr>
+                            <div class="row">
+                                <div class="col-sm-3 d-flex justify-content-evenly w-100">
+                                    <p style="display: inline-block;" class="text-muted mb-0">الزرقاء-الزرقاء الجديدة-البتراوي-شارع 12</p>
+                                    <div style="display: inline-block;font-weight:900; margin-right:100px"class="mb-0">العنوان</div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="d-flex justify-content-start">
+                            <a href=""><button class="btn btn-success m-2">تعديل البيانات</button></a>
+                        </div>
